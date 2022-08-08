@@ -1,4 +1,4 @@
-# Insurance_Cross_Sell_Prediction
+# Health_Insurance_Cross_Sell_Prediction
 
 This project is a part of the AlmaBetter Pro Program
 
